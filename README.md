@@ -1,2 +1,2 @@
-# simpleLinerRegressionExercise
+# simpleLinerRegressionExercise-1
 Practice
